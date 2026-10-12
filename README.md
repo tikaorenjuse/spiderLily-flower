@@ -73,3 +73,5 @@ PARAMS.stamens.count = 12    // perlu refresh 🔃
 | 📂 Muncul "Index of /" | Server dijalankan di folder yang salah, masuk ke `spiderlily-web` dulu |
 
 Selamat bermain dan semoga bunganya mekar indah! 🌸💖🐝
+
+## 📝kalau error perbaiki sendiri hehehe 
