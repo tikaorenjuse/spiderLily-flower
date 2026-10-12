@@ -1,7 +1,7 @@
 # 🌺 Interactive Spider Lily — flowerr Versi Web prend sangat lusyuk 🌸
 
 Bunga 3D yang **tumbuh dan mekar mengikuti gerakan tanganmu** lewat webcam ✋✨
-Dibuat dengan Three.js + MediaPipe, versi kode dari karya TouchDesigner aslinya.
+Dibuat dengan Three.js + MediaPipe
 
 - 🌸 `index-lily.html` → Lily pink
 
